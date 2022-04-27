@@ -1,6 +1,6 @@
 ### Theory
 
-##Introduction
+## Introduction
 
 Applications such as oscillators, pulse generators, ramp or square wave generators, multivibrators require a circuit capable of timing intervals. The most popular circuit is the 555 timer. The IC is consisting of combinations of linear comparators and digital flip flops. The IC 555 is reliable and easy to use for various applications. The entire IC is housed in eight pin package. The IC can operate from 5 to 18 V. The timer IC 555 consist of two transistors, two comparators, three equal resistors, flip flop and output stage. A series connection of three equal resistors sets the reference voltage level of the two comparators at 2VCC/3 and VCC/3 the output of these comparators setting or resetting the flip/flop unit. The IC timer 555 has two operational modes, monostable or astable multivibrator. The IC 555 available in two packages DIP and TO99.
 
@@ -23,7 +23,7 @@ Applications such as oscillators, pulse generators, ramp or square wave generato
 * **Pin8.** - Supply +Vcc, This is the power supply
 
 
-Astable Operation:
+**Astable Operation:**
 
 <center><img src="images/img1.JPG" title="" /></center>
 
