@@ -1,0 +1,65 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "A 22-k &Omega; resistor and a 0.02-&mu;F capacitor are connected in series to a 5-V source. How long will it take the capacitor to charge to 3.4 V?",
+      "answers": {
+        "a": "0.44 ms",
+        "b": "0.70 ms",
+        "c": "0.66 ms",
+        "d": "0.501 ms"
+      },
+      
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "A monostable 555 timer has the following number of stable states",
+      "answers": {
+        "a": "0",
+        "b": "1",
+        "c": "2",
+        "d": "3"
+      },
+      
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "In a typical IC monostable multivibrator circuit, at the falling edge of the trigger input, the output switches HIGH for a period of time determined by the ________.",
+      "answers": {
+        "a": "value of the RC timing components",
+        "b": "amplitude of the input trigger",
+        "c": "frequency of the input trigger",
+        "d": "magnitude of the dc supply voltage"
+      },
+      
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "What is the one is not input to the IC 555 timer?",
+      "answers": {
+        "a": "Threshold",
+        "b": "Control voltage",
+        "c": "Clock",
+        "d": "Trigger"
+      },
+      
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "How may comparator 555 timer has",
+      "answers": {
+        "a": "No comparator",
+        "b": "2",
+        "c": "3",
+        "d": "4"
+      },
+      
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    }
+  ]
+}
