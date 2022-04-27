@@ -2,37 +2,63 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "The duty cycle of an astable multivibrator will vary between ----- % and -----%",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "0 , 50",
+        "b": "0 , 100",
+        "c": "50 , 100",
+        "d": "None of above"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+      
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "In a typical IC monostable multivibrator circuit, at the falling edge of the trigger input, the output switches HIGH for a period of time determined by the ________.",
+      "answers": {
+        "a": "value of the RC timing components",
+        "b": "amplitude of the input trigger",
+        "c": "frequency of the input trigger",
+        "d": "magnitude of the dc supply voltage"
       },
+      
       "correctAnswer": "a",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "Main application of monostable multivibrator is to generate",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Sign output",
+        "b": "Pulsed output",
+        "c": "Square output",
+        "d": "Sawtooth output"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+      
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "For the timer operation IC should be operated in ----- mode",
+      "answers": {
+        "a": "Monostable",
+        "b": "Astable",
+        "c": "Bistable",
+        "d": "a & b"
       },
-      "correctAnswer": "c",
+      
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "The trigger input (pin 2) of IC 555 is connected to ------- when it is operated as an oscillator",
+      "answers": {
+        "a": "Vcc",
+        "b": "GND",
+        "c": "External trigger pulse",
+        "d": "Pin6"
+      },
+      
+      "correctAnswer": "d",
       "difficulty": "beginner"
     }
   ]
